@@ -44,7 +44,6 @@ public class RestoreIpAddress {
             }
         }
     }
-
     // 判断当前截取的IP段是否有效
     private boolean judgeIpSegment(String s,int left,int right){
         int len=right-left+1;
@@ -59,12 +58,5 @@ public class RestoreIpAddress {
             left++;
         }
         return res>=0&&res<=255;
-
     }
-
-    public static void main(String[] args) {
-        RestoreIpAddress res = new RestoreIpAddress();
-        res.restoreIpAddresses("25525511135");
-    }
-
 }
