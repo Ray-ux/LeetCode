@@ -55,5 +55,16 @@ public class HeapSort {
         return 2 * index + 1;
     }
 
+    public static void main(String[] args) {
+        int[] nums=new int[]{2, 7, 1, 3, 0};
+        heapSort(nums,nums.length);
+
+        for (int num :nums
+        ) {
+            System.out.println(num);
+
+        }
+    }
+
 
 }

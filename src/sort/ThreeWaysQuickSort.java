@@ -7,6 +7,8 @@ package sort;
 public class ThreeWaysQuickSort {
 
 //   以当前数组的第一个元素作为标定值，同时以左闭右闭
+//    这里可以随机选订一个标定值然后和数组的第一个元素进行交换这样可以提高效率，但我并没有写
+
     public static void quickSort(int[] nums, int l, int r) {
 //        递归终止条件
         if(l>=r){
@@ -34,6 +36,9 @@ public class ThreeWaysQuickSort {
         nums[a] = nums[b];
         nums[b] = tmp;
     }
+
+
+
 
     public static void main(String[] args) {
         int[] nums=new int[]{2, 7, 1, 3, 0};
