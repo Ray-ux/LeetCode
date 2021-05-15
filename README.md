@@ -3,13 +3,13 @@
 ### 常用排序&查找
 [普通快排]()</br>
 [双路快排]()</br>
-[三路快排]()</br>
+[三路快排](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/ThreeWaysQuickSort.java) </br>
 [归并排序]()</br>
 [插入排序]()</br>
 [选择排序]()</br>
 [冒泡排序]()</br>
 [堆排序]()</br>
-[二分查找]()</br>
+[二分查找](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/BinarySearchNoRecur.java) </br>
 
 ### 数组
 [删除有序数组中的重复项 Ⅰ]()</br>
