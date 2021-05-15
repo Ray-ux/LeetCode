@@ -5,10 +5,10 @@
 [双路快排]()</br>
 [三路快排](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/ThreeWaysQuickSort.java) </br>
 [归并排序]()</br>
-[插入排序]()</br>
-[选择排序]()</br>
-[冒泡排序]()</br>
-[堆排序]()</br>
+[插入排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/InsertSort.java) </br>
+[选择排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/SelectionSort.java) </br>
+[冒泡排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/BubbleSort.java) </br>
+[堆排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/HeapSort.java) </br>
 [二分查找](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/BinarySearchNoRecur.java) </br>
 
 ### 数组
