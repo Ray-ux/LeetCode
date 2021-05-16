@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @author 张烈文
  */
-public class SubSets {
+public class SubSetsⅠ {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res=new ArrayList();
         int len=nums.length;
