@@ -23,7 +23,7 @@
 [最接近的三数之和]() </br>
 [移除元素]() </br>
 [下一个排列]() </br>
-[杨辉三角]()
+[杨辉三角](https://github.com/Ray-ux/LeetCode/blob/master/src/array/PascalTriangle.java)
 ### 链表
 [反转链表]()</br>
 [两两交换链表中的节点]()</br>
