@@ -36,4 +36,4 @@
 [复原IP地址](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/RestoreIpAddress.java) </br>
 [子集 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/SubSets.java) </br>
 [子集 Ⅱ]() </br>
-[岛屿数量]()
+[岛屿数量](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/NumbersOfIslands.java)
