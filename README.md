@@ -4,7 +4,7 @@
 [普通快排]()</br>
 [双路快排]()</br>
 [三路快排](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/ThreeWaysQuickSort.java) </br>
-[归并排序]()</br>
+[归并排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/MergeSort.java) </br>
 [插入排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/InsertSort.java) </br>
 [选择排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/SelectionSort.java) </br>
 [冒泡排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/BubbleSort.java) </br>
@@ -12,14 +12,14 @@
 [二分查找](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/BinarySearchNoRecur.java) </br>
 
 ### 数组
-[删除有序数组中的重复项 Ⅰ]()</br>
-[删除有序数组中的重复项 Ⅱ]()</br>
+[删除有序数组中的重复项 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/array/RemoveDuplicatesBySortedArray%E2%85%A0.java) </br>
+[删除有序数组中的重复项 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/array/RemoveDuplicatesBySortedArray%E2%85%A1.java) </br>
 [搜索旋转排序数组 Ⅰ]() </br>
 [搜索旋转排序数组 Ⅱ]() </br>
 [寻找两个正序数组的中位数]() </br>
 [最长连续序列]() </br>
-[两数之和]() </br>
-[三数之和]() </br>
+[两数之和](https://github.com/Ray-ux/LeetCode/blob/master/src/array/TwoSum.java) </br>
+[三数之和](https://github.com/Ray-ux/LeetCode/blob/master/src/array/TwoSum.java) </br>
 [最接近的三数之和]() </br>
 [移除元素]() </br>
 [下一个排列]() </br>
@@ -35,9 +35,9 @@
 [组合总和Ⅱ]() </br>
 [组合](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/Combinations.java) </br>
 [复原IP地址](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/RestoreIpAddress.java) </br>
-[子集 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/SubSets.java) </br>
-[子集 Ⅱ]() </br>
+[子集 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/SubSets%E2%85%A0.java) </br>
+[子集 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/SubSets%E2%85%A1.java) </br>
 [岛屿数量](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/NumbersOfIslands.java) </br>
 
 ### 位运算
-[找出第K大的异或坐标值] 
+[找出第K大的异或坐标值](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/FindKthLargestXORCoorrdinateValue.java) </br>
