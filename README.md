@@ -29,7 +29,7 @@
 [两两交换链表中的节点](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/SwapNodesInPairs.java) </br>
 [返回倒数第k节点的数]() </br>
 [删除链表的倒数第N个节点]() </br>
-[合并两个有序链表]() </br>
+[合并两个有序链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/MergeTwoSortedLists.java) </br>
 [合并k个升序链表]() </br>
 [k个一组翻转链表]() </br>
 [旋转链表]() </br>
