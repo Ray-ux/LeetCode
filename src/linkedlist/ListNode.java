@@ -6,18 +6,18 @@ package linkedlist;
  */
 public class ListNode<T> {
      ListNode next;
-     T data;
+     T val;
 
     ListNode() {
 
     }
 
-    ListNode(T data) {
-        this.data = data;
+    ListNode(T val) {
+        this.val = val;
     }
 
-    ListNode(T data, ListNode next) {
-        this.data = data;
+    ListNode(T val, ListNode next) {
+        this.val = val;
         this.next = next;
     }
 
