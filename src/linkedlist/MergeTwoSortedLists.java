@@ -10,7 +10,7 @@ public class MergeTwoSortedLists {
         ListNode res = new ListNode();
         ListNode tmp = res;
         while (l1 != null && l2 != null) {
-            if (l1.data > l2.data) {
+            if (l1.val > l2.val) {
                 tmp.next = l2;
                 l2 = l2.next;
             } else {
