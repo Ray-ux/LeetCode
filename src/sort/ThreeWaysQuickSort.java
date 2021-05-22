@@ -14,13 +14,16 @@ public class ThreeWaysQuickSort {
         if(l>=r){
             return;
         }
-        int lt=l;
-        int i = l + 1;
-        int gt=r+1;
+//         随机在nums[l...r]的范围中，选择一个数值作为标定点pivot
+        swap(nums, l, (int) (Math.random() * (r - l + 1)) + l);
+        int v = nums[l];
+        int lt=l;    //nums[l+1...l2]<v
+        int i = l + 1;  //nums[lt+1...i]==v
+        int gt=r+1;    //nums[gt...r]>v
         while (i<gt) {
-            if (nums[i] < nums[l]) {
+            if (nums[i] < v) {
                 swap(nums, i++, ++lt);
-            } else if (nums[i] > nums[l]) {
+            } else if (nums[i] > v) {
                 swap(nums, i, --gt);
             }else{
                 i++;
