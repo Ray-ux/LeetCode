@@ -52,5 +52,5 @@
 ### 位运算
 [找出第K大的异或坐标值](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/FindKthLargestXORCoorrdinateValue.java) </br>
 
-### 其它
-[前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/other/TopkFrequentWords.java)
+### 堆
+[前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentWords.java)
