@@ -32,7 +32,7 @@
 [合并两个有序链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/MergeTwoSortedLists.java) </br>
 [合并k个升序链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/MergekSortedLists.java) </br>
 [k个一组翻转链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReverseNodesInKgroup.java) </br>
-[旋转链表]() </br>
+[旋转链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/RotateList.java) </br>
 [环形链表]() </br>
 [二叉树展开为链表]() </br>
 [删除排序链表中的重复元素]() </br>
