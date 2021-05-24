@@ -7,6 +7,7 @@ import java.util.*;
 public class BinaryTreePreorderTraversal {
 
 //    非递归前序遍历
+
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         if (root == null) {
