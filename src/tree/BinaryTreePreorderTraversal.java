@@ -2,6 +2,7 @@ package tree;
 
 import java.util.*;
 /**
+ * 二叉树的先序遍历
  * @author 张烈文
  */
 public class BinaryTreePreorderTraversal {
