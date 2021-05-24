@@ -8,6 +8,7 @@ import java.util.*;
 public class CombinationSumⅡ {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
+        //升序
         Arrays.sort(candidates);
         Deque<Integer> path=new LinkedList<>();
         dfs(0, candidates, candidates.length,res,path,target);
@@ -22,10 +23,12 @@ public class CombinationSumⅡ {
             if (target - candidates[i] < 0) {
                 break;
             }
+            //上一题的基础上加了这一句代码，i>begin旨在避免同一层的重复数字，但可以使不同层相同
             if (i > begin && candidates[i - 1] == candidates[i]) {
                 continue;
             }
             path.addLast(candidates[i]);
+            //由于元素不可以重复使用，这里递归下去的是i+1
             dfs(i + 1, candidates, len, res, path, target - candidates[i]);
             path.removeLast();
         }
