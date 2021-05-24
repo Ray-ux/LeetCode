@@ -27,7 +27,7 @@
 ### 链表
 [反转链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReverseList.java) </br>
 [两两交换链表中的节点](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/SwapNodesInPairs.java) </br>
-[返回倒数第k节点的数](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/KthNodeFromEndLinkedList.java) </br>
+[链表中倒数第K个节点](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/KthNodeFromEndLinkedList.java) </br>
 [删除链表的倒数第N个节点](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/RemoveNthNodeFromEndofList.java) </br>
 [合并两个有序链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/MergeTwoSortedLists.java) </br>
 [合并k个升序链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/MergekSortedLists.java) </br>
@@ -49,6 +49,37 @@
 [子集 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/SubSets%E2%85%A1.java) </br>
 [岛屿数量](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/NumbersOfIslands.java) </br>
 [单词搜索](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/WordSearch.java) 
+
+
+### 二叉树
+[二叉树的前序遍历]() </br>
+[二叉树的后序遍历]() </br>
+[二叉树的中序遍历]() </br>
+[二叉树的层序遍历]() </br>
+[对称二叉树]() </br>
+[二叉树的最大深度]() </br>
+[二叉树的最小深度]() </br>
+[完全二叉树的节点个数]() </br>
+[平衡二叉树]() </br>
+[二叉树的所有路径]() </br>
+[左叶子之和]() </br>
+[找树左下角的值]() </br>
+[路径总和]() </br>
+[翻转二叉树]() </br>
+[从中序与后序遍历序列构造二叉树]() </br>
+[最大二叉树]() </br>
+[合并二叉树]() </br>
+[二叉树中的搜索]() </br>
+[验证二叉搜索树]() </br>
+[二叉搜索树的最小绝对差]() </br>
+[把二叉搜索树转换为累加树]() </br>
+[二叉树的最近公共祖先]() </br>
+[二叉搜索树的最近公共祖先]() </br>
+[二叉搜索树中的插入操作]() </br>
+[删除二叉搜索树中的节点]() </br>
+[修剪二叉搜索树]() </br>
+[将有序数组转换为二叉搜索树]() </br>
+
 ### 位运算
 [找出第K大的异或坐标值](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/FindKthLargestXORCoorrdinateValue.java) </br>
 
