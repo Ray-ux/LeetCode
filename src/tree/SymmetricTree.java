@@ -38,8 +38,7 @@ public class SymmetricTree {
 
     }
 
-
-//    非递归
+//    非递归方式一
     public boolean isSymmetric1(TreeNode root) {
         if(root==null||(root.left==null&&root.right==null)){
             return true;
