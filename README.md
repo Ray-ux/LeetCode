@@ -58,7 +58,7 @@
 [二叉树的层序遍历](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/BinaryTreeLevelOrderTraversal.java) </br>
 [对称二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/SymmetricTree.java) </br>
 [二叉树的最大深度](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/MaximumDepthOfBinaryTree.java) </br>
-[二叉树的最小深度]() </br>
+[二叉树的最小深度](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/MinimumDepthOfBinaryTree.java) </br>
 [完全二叉树的节点个数]() </br>
 [平衡二叉树]() </br>
 [二叉树的所有路径]() </br>
