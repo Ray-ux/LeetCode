@@ -1,6 +1,7 @@
 package tree;
 
 /**
+ * 平衡二叉树
  * @author 张烈文
  */
 public class BalancedBinaryTree {
