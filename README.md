@@ -39,7 +39,7 @@
 [删除排序链表中的重复元素]() </br>
 [删除排序链表中的重复元素Ⅱ]() </br>
 ### 回溯
-[全排列 Ⅰ]() </br>
+[全排列 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/Permutations.java) </br>
 [全排列 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/PermutationsⅡ.java) </br>
 [组合总和](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/CombinationSumⅠ.java) </br>
 [组合总和Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/CombinationSumⅡ.java) </br>
