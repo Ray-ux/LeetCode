@@ -63,8 +63,8 @@
 [平衡二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/BalancedBinaryTree.java) </br>
 [二叉树的所有路径](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/BinaryTreePaths.java) </br>
 [左叶子之和](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/SumOfLeftLeaves.java) </br>
-[找树左下角的值](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/) </br>
-[路径总和](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/) </br>
+[找树左下角的值](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/FindBottomLeftTreeValue.java) </br>
+[路径总和](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/PathSum.java) </br>
 [翻转二叉树]() </br>
 [从中序与后序遍历序列构造二叉树]() </br>
 [最大二叉树]() </br>
