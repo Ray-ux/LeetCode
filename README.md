@@ -65,6 +65,7 @@
 [左叶子之和](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/SumOfLeftLeaves.java) </br>
 [找树左下角的值](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/FindBottomLeftTreeValue.java) </br>
 [路径总和](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/PathSum.java) </br>
+[路径总和Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/PathSumⅡ.java) </br>
 [翻转二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/InvertBinaryTree.java) </br>
 [从中序与后序遍历序列构造二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/ConstructBinaryFromInorderAndPostorder.java) </br>
 [从中序与前序遍历序列构造二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/ConstructBinaryTreeFromPreOrderandInOrder.java) </br>
@@ -85,5 +86,6 @@
 ### 位运算
 [找出第K大的异或坐标值](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/FindKthLargestXORCoorrdinateValue.java) </br>
 [2的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfTwo.java)
+[4的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfFour.java)
 ### 堆
 [前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentWords.java)
