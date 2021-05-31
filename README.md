@@ -89,3 +89,4 @@
 [4的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfFour.java)
 ### 堆
 [前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentWords.java)
+[前k个高频元素](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentElements.java)
