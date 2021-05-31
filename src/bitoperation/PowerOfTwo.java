@@ -26,5 +26,6 @@ public class PowerOfTwo {
     //    思路2：
     public boolean isPowerOfTwo1(int n) {
 
+        return n > 0 && (n & (n - 1)) == 0;
     }
 }
