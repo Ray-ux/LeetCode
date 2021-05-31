@@ -6,6 +6,7 @@ import java.util.Deque;
 import java.util.List;
 
 /**
+ * 子集
  * @author 张烈文
  */
 public class SubSetsⅠ {
@@ -17,6 +18,7 @@ public class SubSetsⅠ {
         }
         Deque<Integer> path=new ArrayDeque();
         dfs(0,len,nums,path,res);
+        res.add(new ArrayList<>());
         return res;
     }
 
