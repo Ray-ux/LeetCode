@@ -87,6 +87,7 @@
 [找出第K大的异或坐标值](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/FindKthLargestXORCoorrdinateValue.java) </br>
 [2的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfTwo.java)
 [4的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfFour.java)
+[只出现一次的数字Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/SingleNumberⅡ.java)
 ### 堆
 [前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentWords.java)
 [前k个高频元素](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentElements.java)
