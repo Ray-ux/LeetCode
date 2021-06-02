@@ -38,7 +38,7 @@
 [二叉树展开为链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/FlattenBinaryTreeToLinkedList.java) </br>
 [重排链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReorderList.java)
 [删除排序链表中的重复元素]() </br>
-[删除排序链表中的重复元素Ⅱ]() </br>
+[删除排序链表中的重复元素Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/RemoveDuplicatesFromSortedListⅡ.java) </br>
 ### 回溯
 [全排列 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/Permutations.java) </br>
 [全排列 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/PermutationsⅡ.java) </br>

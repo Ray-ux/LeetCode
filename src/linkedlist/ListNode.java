@@ -4,19 +4,19 @@ package linkedlist;
  * 链表节点
  * @author 张烈文
  */
-public class ListNode<T> {
+public class ListNode {
      ListNode next;
-     T val;
+     int val;
 
     ListNode() {
 
     }
 
-    ListNode(T val) {
+    ListNode(int val) {
         this.val = val;
     }
 
-    ListNode(T val, ListNode next) {
+    ListNode(int val, ListNode next) {
         this.val = val;
         this.next = next;
     }
