@@ -18,6 +18,7 @@ public class SubSetsⅡ {
         Arrays.sort(nums);
         Deque<Integer> path = new ArrayDeque<>();
         dfs(len, nums, 0, res, path);
+        res.add(new ArrayList<>());
         return res;
     }
     private void dfs(int len, int[] nums, int begin, List<List<Integer>> res, Deque<Integer> path) {
