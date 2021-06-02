@@ -36,6 +36,7 @@
 [环形链表 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/LinkedListCycleⅠ.java) </br>
 [环形链表 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/LinkedListCycleⅡ.java) </br>
 [二叉树展开为链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/FlattenBinaryTreeToLinkedList.java) </br>
+[重排链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReorderList.java)
 [删除排序链表中的重复元素]() </br>
 [删除排序链表中的重复元素Ⅱ]() </br>
 ### 回溯
