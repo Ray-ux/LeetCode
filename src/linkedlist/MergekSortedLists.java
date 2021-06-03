@@ -7,9 +7,9 @@ import java.util.PriorityQueue;
  */
 public class MergekSortedLists {
 
-    public ListNode<Integer> mergeKLists(ListNode<Integer>[] lists) {
+    public ListNode mergeKLists(ListNode[] lists) {
 
-        PriorityQueue<ListNode<Integer>> pq = new PriorityQueue<>(((o1, o2) -> o1.val - o2.val));
+        PriorityQueue<ListNode> pq = new PriorityQueue<>(((o1, o2) -> o1.val - o2.val));
 
 //        遍历数组，将数组该位置的所在的链表头节点加入队列中
         for (ListNode node : lists) {
