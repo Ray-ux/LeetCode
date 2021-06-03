@@ -5,13 +5,13 @@ package linkedlist;
  */
 public class ReverseNodesInKgroup {
 
-    public ListNode<Integer> reverseKGroup(ListNode<Integer> head, int k) {
+    public ListNode reverseKGroup(ListNode head, int k) {
 //        如果仅存一个节点或者不存在节点就直接返回
         if (head == null || head.next == null) {
             return head;
         }
 //        用来保存反转之后的链表
-        ListNode<Integer> res = new ListNode<>();
+        ListNode res = new ListNode();
         ListNode cur = res;
         ListNode lenNode = head;
 //        求链表长度
