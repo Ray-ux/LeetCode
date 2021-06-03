@@ -5,7 +5,7 @@ package linkedlist;
  */
 public class MergeTwoSortedLists {
 
-    public ListNode<Integer> mergeTwoLists(ListNode<Integer> l1, ListNode<Integer> l2) {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 
         ListNode res = new ListNode();
         ListNode tmp = res;
