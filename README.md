@@ -73,7 +73,7 @@
 [最大二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/MaximumBinaryTree.java) </br>
 [合并二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/MergeTwoBinaryTrees.java) </br>
 [二叉搜索树中的搜索](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/SearchInABinaryTree.java) </br>
-[验证二叉搜索树]() </br>
+[验证二叉搜索树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/ValidateBinarySearchTree.java) </br>
 [二叉搜索树的最小绝对差]() </br>
 [把二叉搜索树转换为累加树]() </br>
 [二叉树的最近公共祖先]() </br>
