@@ -25,6 +25,7 @@
 [下一个排列]() </br>
 [杨辉三角](https://github.com/Ray-ux/LeetCode/blob/master/src/array/PascalTriangle.java)
 [有效的数独](https://github.com/Ray-ux/LeetCode/blob/master/src/array/ValidSudoku.java)
+[接雨水](https://github.com/Ray-ux/LeetCode/blob/master/src/array/TrappingRainWater.java)
 ### 链表
 [反转链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReverseList.java) </br>
 [两两交换链表中的节点](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/SwapNodesInPairs.java) </br>
