@@ -98,5 +98,7 @@
 ### 堆
 [前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentWords.java) </br>
 [前k个高频元素](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentElements.java) </br>
-### 每日一题
+### 前缀和
 [前缀和](https://github.com/Ray-ux/LeetCode/blob/master/src/prefixsum)
+### 字符串
+[验证回文串](https://github.com/Ray-ux/LeetCode/blob/master/src/string)
