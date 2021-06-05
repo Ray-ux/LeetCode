@@ -23,9 +23,9 @@
 [最接近的三数之和]() </br>
 [移除元素]() </br>
 [下一个排列]() </br>
-[杨辉三角](https://github.com/Ray-ux/LeetCode/blob/master/src/array/PascalTriangle.java)
-[有效的数独](https://github.com/Ray-ux/LeetCode/blob/master/src/array/ValidSudoku.java)
-[接雨水](https://github.com/Ray-ux/LeetCode/blob/master/src/array/TrappingRainWater.java)
+[杨辉三角](https://github.com/Ray-ux/LeetCode/blob/master/src/array/PascalTriangle.java) </br>
+[有效的数独](https://github.com/Ray-ux/LeetCode/blob/master/src/array/ValidSudoku.java) </br>
+[接雨水](https://github.com/Ray-ux/LeetCode/blob/master/src/array/TrappingRainWater.java) </br>
 ### 链表
 [反转链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReverseList.java) </br>
 [两两交换链表中的节点](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/SwapNodesInPairs.java) </br>
@@ -38,7 +38,7 @@
 [环形链表 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/LinkedListCycleⅠ.java) </br>
 [环形链表 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/LinkedListCycleⅡ.java) </br>
 [二叉树展开为链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/FlattenBinaryTreeToLinkedList.java) </br>
-[重排链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReorderList.java)
+[重排链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReorderList.java) 
 [删除排序链表中的重复元素]() </br>
 [删除排序链表中的重复元素Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/RemoveDuplicatesFromSortedListⅡ.java) </br>
 [相交链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/IntersectionOfTwoLinkedLists.java) </br>
@@ -53,7 +53,7 @@
 [子集 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/SubSets%E2%85%A0.java) </br>
 [子集 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/SubSets%E2%85%A1.java) </br>
 [岛屿数量](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/NumbersOfIslands.java) </br>
-[单词搜索](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/WordSearch.java) 
+[单词搜索](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/WordSearch.java) </br>
 
 
 ### 二叉树
@@ -90,11 +90,11 @@
 
 ### 位运算
 [找出第K大的异或坐标值](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/FindKthLargestXORCoorrdinateValue.java) </br>
-[2的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfTwo.java)
-[4的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfFour.java)
-[只出现一次的数字Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/SingleNumberⅡ.java)
+[2的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfTwo.java) </br>
+[4的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfFour.java) </br>
+[只出现一次的数字Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/SingleNumberⅡ.java) </br>
 ### 堆
-[前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentWords.java)
-[前k个高频元素](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentElements.java)
+[前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentWords.java) </br>
+[前k个高频元素](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentElements.java) </br>
 ### 每日一题
 [前缀和](https://github.com/Ray-ux/LeetCode/blob/master/src/other/june)
