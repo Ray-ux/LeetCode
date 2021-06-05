@@ -1,4 +1,4 @@
-package other.june;
+package prefixsum;
 
 import java.util.ArrayList;
 import java.util.HashMap;

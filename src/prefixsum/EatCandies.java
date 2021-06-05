@@ -1,4 +1,4 @@
-package other.june;
+package prefixsum;
 
 /**
  * 你能在你最喜欢的那天吃到你最喜欢的糖果吗？
