@@ -56,7 +56,7 @@
 [子集 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/SubSets%E2%85%A1.java) </br>
 [岛屿数量](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/NumbersOfIslands.java) </br>
 [单词搜索](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/WordSearch.java) </br>
-
+[目标和](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/TargetSum.java)
 
 ### 二叉树
 [二叉树的前序遍历](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/BinaryTreePreorderTraversal.java) </br>
