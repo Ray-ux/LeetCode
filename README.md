@@ -82,7 +82,7 @@
 [验证二叉搜索树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/ValidateBinarySearchTree.java) </br>
 [二叉搜索树的最小绝对差](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/MinimumAbsoluteDifferenceInBST.java) </br>
 [把二叉搜索树转换为累加树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/CovertBSTtoGreaterTree.java) </br>
-[二叉树的最近公共祖先]() </br>
+[二叉树的最近公共祖先](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/TheNearestAncestorsOfBinaryTree.java) </br>
 [二叉搜索树的最近公共祖先]() </br>
 [二叉搜索树中的插入操作]() </br>
 [删除二叉搜索树中的节点]() </br>
