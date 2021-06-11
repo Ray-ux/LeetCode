@@ -85,7 +85,7 @@
 [二叉树的最近公共祖先](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/TheNearestAncestorsOfBinaryTree.java) </br>
 [二叉搜索树的最近公共祖先]() </br>
 [二叉搜索树中的插入操作]() </br>
-[删除二叉搜索树中的节点]() </br>
+[删除二叉搜索树中的节点](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/DeleteNodeInABST.java) </br>
 [修剪二叉搜索树]() </br>
 [将有序数组转换为二叉搜索树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/ConvertSortedArrayToBST.java) </br>
 [有序链表转换为二叉搜索树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/ConvertSortedArrayToBST.java) </br>
