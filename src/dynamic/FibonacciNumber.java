@@ -47,4 +47,27 @@ public class FibonacciNumber {
         }
         return dp[n];
     }
+
+    /**
+     * 优化发现，我们只需要使用常数级别的空间。只保留当前斐波拉契数的前两个数即可
+     * @param n
+     * @return
+     */
+    public int fib2(int n) {
+
+        if (n == 0) {
+            return 0;
+        }
+        int[] dp = new int[2];
+        dp[0] = 0;
+        dp[1] = 1;
+        for (int i = 2; i <= n; i++) {
+            int sum = dp[0] + dp[1];
+            dp[0]=dp[1];
+            dp[1] = sum;
+        }
+        return dp[1];
+    }
+
+
 }
