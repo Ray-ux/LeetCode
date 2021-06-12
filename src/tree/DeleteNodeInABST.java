@@ -47,13 +47,11 @@ public class DeleteNodeInABST {
     }
 
     private TreeNode removeMin(TreeNode node) {
-
         if (node.left == null) {
             TreeNode rightNode = node.right;
             node.right = null;
             return rightNode;
         }
-
         node.left = removeMin(node.left);
         return node;
     }
