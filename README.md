@@ -108,3 +108,4 @@
 [盈利计划](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/ProfitableSchemes.java)
 [零钱兑换Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CoinChangeⅡ.java)
 [完全平方数](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/PerfectSquares.java)
+[数位成本和为目标值的最大数字](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/FromLargestIntegerWithDigitsThatAdduptoTarget.java)
