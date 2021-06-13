@@ -9,8 +9,7 @@ public class UniquePathsⅡ {
 
     /**
      * 该题和不同路径有异曲同工之处：只不过多了障碍物，我们只需要保证在有障碍物的位置dp[i][j]=0就可以啦
-     * 具体思路和上一题一样
-     *
+     * 该题容易忽略的一点：障碍之后应该都是0的情况
      * @param obstacleGrid
      * @return
      */
