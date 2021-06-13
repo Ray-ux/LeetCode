@@ -11,8 +11,7 @@ public class BinarySearchNoRecur {
         int l=0;
         int r = nums.length;
         while(l<r){
-//          向右移一位处理边界，另一种方式mid=l+(r-l)/2;
-            int mid=(l+r)>>1;
+            int mid=l+(r-l)/2;
             if (nums[mid] == target) {
                 return mid;
             } else if (nums[mid] < target) {
