@@ -28,4 +28,37 @@ public class TargetSum {
         dfs(sum + nums[index], target, nums, index + 1);
         dfs(sum - nums[index], target, nums, index + 1);
     }
+
+
+    /**
+     * dp[j]：容量为j的背包最多有dp[j]种方法
+     * 递推公式：dp[j]+=dp[j-nums[i]]
+     * 初始化：dp[0]=1
+     * @param nums
+     * @param target
+     * @return
+     */
+    public int findTargetSumWays1(int[] nums, int target) {
+
+        int sum = 0;
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+        }
+        if (target > sum) {
+            return 0;
+        }
+        if ((target+sum)%2==1){
+            return 0;
+        }
+        int bagSize = (target + sum) / 2;
+        int[] dp = new int[bagSize + 1];
+        dp[0] = 1;
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = bagSize; j >= nums[i]; j--) {
+                dp[j] += dp[j - nums[i]];
+            }
+        }
+        return dp[bagSize];
+
+    }
 }
