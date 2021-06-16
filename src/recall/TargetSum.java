@@ -31,6 +31,8 @@ public class TargetSum {
 
 
     /**
+     *
+     * 一般在求装满背包有几种方法时：递推公式都为：dp[j]+=dp[j-nums[i]]
      * dp[j]：容量为j的背包最多有dp[j]种方法
      * 递推公式：dp[j]+=dp[j-nums[i]]
      * 初始化：dp[0]=1
