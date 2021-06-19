@@ -48,6 +48,8 @@
 
 ### 栈
 [简化路径](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/SimplifyPath.java) </br>
+[有效的括号](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/ValidParentheses.java)  </br>
+[最小栈](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/MinStack.java)
 ### 回溯
 [全排列 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/Permutations.java) </br>
 [全排列 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/PermutationsⅡ.java) </br>
