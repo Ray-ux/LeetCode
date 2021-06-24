@@ -27,7 +27,8 @@
 [有效的数独](https://github.com/Ray-ux/LeetCode/blob/master/src/array/ValidSudoku.java) </br>
 [接雨水](https://github.com/Ray-ux/LeetCode/blob/master/src/array/TrappingRainWater.java) </br>
 [旋转图像](https://github.com/Ray-ux/LeetCode/blob/master/src/array/RotateImage.java)  </br>
-[加一](https://github.com/Ray-ux/LeetCode/blob/master/src/array/PlusOne.java)
+[加一](https://github.com/Ray-ux/LeetCode/blob/master/src/array/PlusOne.java) </br>
+[直线上最多的点数](https://github.com/Ray-ux/LeetCode/blob/master/src/array/MaxPointsOnALine.java)
 ### 链表
 [反转链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReverseList.java) </br>
 [两两交换链表中的节点](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/SwapNodesInPairs.java) </br>
