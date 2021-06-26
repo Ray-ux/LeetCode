@@ -18,13 +18,8 @@ public class StringPrermutation {
         Arrays.sort(chars);
         StringBuilder path = new StringBuilder();
         dfs(chars, tmp, path, used);
-//        String[] res = new String[tmp.size()];
-//        for (int i = 0; i < tmp.size(); i++) {
-//            res[i] = tmp.get(i);
-//        }
-
-
-        return tmp.toArray(new String[tmp.size()]);
+//        根据阿里巴巴编码规范，用集合类转化为数组时建议将参数的空间置为0
+        return tmp.toArray(new String[0]);
     }
 
     private void dfs(char[] s, List<String> res, StringBuilder path,boolean[] used) {
