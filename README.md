@@ -111,7 +111,8 @@
 ### 字符串
 [验证回文串](https://github.com/Ray-ux/LeetCode/blob/master/src/string/ValidPalindrome.java) </br>
 [串联字符串和最大长度](https://github.com/Ray-ux/LeetCode/blob/master/src/string/MaximumLengthOfAConcatenated.java) </br>
-[字符串中的最大奇数](https://github.com/Ray-ux/LeetCode/blob/master/src/string/LargestOddNumberInString.java)
+[字符串中的最大奇数](https://github.com/Ray-ux/LeetCode/blob/master/src/string/LargestOddNumberInString.java) </br>
+[外观数列](https://github.com/Ray-ux/LeetCode/blob/master/src/string/CountAndSay.java)
 ### 动态规划
 [一和零](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/OnesAndZeroes.java) </br>
 [最后一块石头的重量](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/LastStoneWeightⅡ.java) </br>
