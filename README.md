@@ -28,7 +28,8 @@
 [接雨水](https://github.com/Ray-ux/LeetCode/blob/master/src/array/TrappingRainWater.java) </br>
 [旋转图像](https://github.com/Ray-ux/LeetCode/blob/master/src/array/RotateImage.java)  </br>
 [加一](https://github.com/Ray-ux/LeetCode/blob/master/src/array/PlusOne.java) </br>
-[直线上最多的点数](https://github.com/Ray-ux/LeetCode/blob/master/src/array/MaxPointsOnALine.java)
+[直线上最多的点数](https://github.com/Ray-ux/LeetCode/blob/master/src/array/MaxPointsOnALine.java) </br>
+[删除一个元素使数组严格递增](https://github.com/Ray-ux/LeetCode/blob/master/src/array/DeleteAnElementToMakeIncrease.java)
 ### 链表
 [反转链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReverseList.java) </br>
 [两两交换链表中的节点](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/SwapNodesInPairs.java) </br>
