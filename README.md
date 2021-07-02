@@ -130,4 +130,7 @@
 [不同路径Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/UniquePathsⅡ.java) </br>
 [整数拆分](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/IntegerBreak.java) </br>
 [不同的二叉搜索树](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/UniqueBinarySearchTrees.java) </br>
-[分割等和子集](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/PartitionEqualSubsetSum.java)
+[分割等和子集](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/PartitionEqualSubsetSum.java) </br>
+
+### 贪心
+[雪糕的最大数量](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/MaxIceCreamBars.java)
