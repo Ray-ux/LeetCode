@@ -31,6 +31,9 @@ public class DynamicBasic {
 
         for (int i = 1; i <= 2; i++) {
             for (int j = 1; j <= 4; j++) {
+//                若当前背包容量不足以装下物品i，则dp[i][j]=dp[i-1][j]
+//                若当前背包容量可以装下物品i，则会存在两种情况：1是装物品i：价值为dp[j-weight[i]]+value[i]  2是不装物品i，则价值为:dp[i-1][j]
+//                然后取二者最大就行：dp[i][j]=Math.max(dp[i-1][j],dp[i-1][j-weight[i]]+value[i])
                 if (j < weight[i]) {
                     dp[i][j] = dp[i - 1][j];
                 }else{
