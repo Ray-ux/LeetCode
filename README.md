@@ -135,4 +135,8 @@
 [分割等和子集](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/PartitionEqualSubsetSum.java) </br>
 
 ### 贪心
-[雪糕的最大数量](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/MaxIceCreamBars.java)
+[雪糕的最大数量](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/MaxIceCreamBars.java) </br>
+
+### 二分查找
+[第一个错误的版本](https://github.com/Ray-ux/LeetCode/blob/master/src/binarysearch/FirstBadVersion.java)
+[搜索插入位置]()
