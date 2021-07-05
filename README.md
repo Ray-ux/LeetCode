@@ -1,10 +1,10 @@
 # LeetCode
 
 ### 常用排序&查找
-[普通快排](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/QuickSort.java) </br>
-[双路快排]() </br>
-[三路快排](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/ThreeWaysQuickSort.java) </br>
-[归并排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/MergeSort.java) </br>
+[普通快排](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/QuickSort.java)  
+[双路快排]()  
+[三路快排](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/ThreeWaysQuickSort.java)  
+[归并排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/MergeSort.java)  
 [插入排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/InsertSort.java) </br>
 [选择排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/SelectionSort.java) </br>
 [冒泡排序](https://github.com/Ray-ux/LeetCode/blob/master/src/sort/BubbleSort.java) </br>
