@@ -32,7 +32,8 @@
 [删除一个元素使数组严格递增](https://github.com/Ray-ux/LeetCode/blob/master/src/array/DeleteAnElementToMakeIncrease.java) </br>
 [错误的集合](https://github.com/Ray-ux/LeetCode/blob/master/src/array/SetMismatch.java)  
 [有序数组的平方](https://github.com/Ray-ux/LeetCode/blob/master/src/array/SquaresOfASortedArray.java)  
-[旋转数组](https://github.com/Ray-ux/LeetCode/blob/master/src/array/RotateArray.java)
+[旋转数组](https://github.com/Ray-ux/LeetCode/blob/master/src/array/RotateArray.java)  
+[主要元素](https://github.com/Ray-ux/LeetCode/blob/master/src/array/FindMajorityElementLCCI.java)
 ### 链表
 [反转链表](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/ReverseList.java) </br>
 [两两交换链表中的节点](https://github.com/Ray-ux/LeetCode/blob/master/src/linkedlist/SwapNodesInPairs.java) </br>
