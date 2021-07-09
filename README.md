@@ -113,7 +113,8 @@
 [前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentWords.java) </br>
 [前k个高频元素](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentElements.java) </br>
 ### 前缀和
-[前缀和](https://github.com/Ray-ux/LeetCode/blob/master/src/prefixsum) </br>
+[前缀和](https://github.com/Ray-ux/LeetCode/blob/master/src/prefixsum)  
+[和相同的二元子数组](https://github.com/Ray-ux/LeetCode/blob/master/src/BinarySubarraysWithSum.java)
 ### 字符串
 [验证回文串](https://github.com/Ray-ux/LeetCode/blob/master/src/string/ValidPalindrome.java) </br>
 [串联字符串和最大长度](https://github.com/Ray-ux/LeetCode/blob/master/src/string/MaximumLengthOfAConcatenated.java) </br>
