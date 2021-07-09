@@ -142,4 +142,7 @@
 
 ### 二分查找
 [第一个错误的版本](https://github.com/Ray-ux/LeetCode/blob/master/src/binarysearch/FirstBadVersion.java) </br>
-[搜索插入位置](https://github.com/Ray-ux/LeetCode/blob/master/src/binarysearch/SearchInsertPosition.java)
+[搜索插入位置](https://github.com/Ray-ux/LeetCode/blob/master/src/binarysearch/SearchInsertPosition.java)  
+
+### hash表
+[大餐计数](https://github.com/Ray-ux/LeetCode/blob/master/src/hashtable/CountGoodMeals.java)
