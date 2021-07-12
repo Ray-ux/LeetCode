@@ -142,7 +142,7 @@
 [组合总和Ⅳ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CombinationSumⅣ.java)  
 [目标和](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/TargetSum.java) </br>
 [零钱兑换Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CoinChangeⅡ.java) </br>
-
+[零钱兑换](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CoinChange.java)
 
 
 ### 贪心
