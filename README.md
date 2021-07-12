@@ -68,7 +68,6 @@
 [岛屿数量](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/NumbersOfIslands.java) </br>
 [统计子岛屿](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/CountSubIsLands.java)
 [单词搜索](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/WordSearch.java) </br>
-[目标和](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/TargetSum.java) </br>
 [排列序列](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/PermutationSequence.java) </br>
 [字符串的排列](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/StringPrermutation.java)  
 [岛屿的最大面积](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/MaxAreaOfIsland.java)  
@@ -130,7 +129,6 @@
 [一和零](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/OnesAndZeroes.java) </br>
 [最后一块石头的重量](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/LastStoneWeightⅡ.java) </br>
 [盈利计划](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/ProfitableSchemes.java) </br>
-[零钱兑换Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CoinChangeⅡ.java) </br>
 [完全平方数](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/PerfectSquares.java) </br>
 [数位成本和为目标值的最大数字](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/FromLargestIntegerWithDigitsThatAdduptoTarget.java) </br>
 [斐波拉契数](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/FibonacciNumber.java) </br>
@@ -141,7 +139,11 @@
 [整数拆分](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/IntegerBreak.java) </br>
 [不同的二叉搜索树](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/UniqueBinarySearchTrees.java) </br>
 [分割等和子集](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/PartitionEqualSubsetSum.java) </br>
-[组合总和Ⅳ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CombinationSumⅣ.java)
+[组合总和Ⅳ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CombinationSumⅣ.java)  
+[目标和](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/TargetSum.java) </br>
+[零钱兑换Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CoinChangeⅡ.java) </br>
+
+
 
 ### 贪心
 [雪糕的最大数量](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/MaxIceCreamBars.java) </br>

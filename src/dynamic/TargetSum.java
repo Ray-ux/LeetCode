@@ -1,4 +1,4 @@
-package recall;
+package dynamic;
 
 /**
  * 目标和
@@ -31,6 +31,9 @@ public class TargetSum {
 
 
     /**
+     *
+     * 假设加法的总和为x，那么减法的对应总和就是sum-x。所以我们要求的是x-(sum-x)=target
+     * x=(target+sum)/2,因此问题转变为装满背包容量为x，物品为nums，有几种方法
      *
      * 一般在求装满背包有几种方法时：递推公式都为：dp[j]+=dp[j-nums[i]]
      * dp[j]：容量为j的背包最多有dp[j]种方法
