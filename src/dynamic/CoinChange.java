@@ -20,7 +20,7 @@ public class CoinChange {
      * @param amount
      * @return
      */
-    public int coinChange(int[] coins, int amount) {
+    public static int coinChange(int[] coins, int amount) {
         int[] dp = new int[amount + 1];
         Arrays.fill(dp, Integer.MAX_VALUE);
         dp[0] = 0;
@@ -34,5 +34,9 @@ public class CoinChange {
             }
         }
         return dp[amount] == Integer.MAX_VALUE ? -1 : dp[amount];
+    }
+
+    public static void main(String[] args) {
+        coinChange(new int[]{1, 2, 5}, 11);
     }
 }
