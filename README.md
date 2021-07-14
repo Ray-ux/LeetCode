@@ -143,7 +143,10 @@
 [目标和](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/TargetSum.java) </br>
 [零钱兑换Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CoinChangeⅡ.java) </br>
 [零钱兑换](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/CoinChange.java)  
-[单词的拆分](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/WordBreak.java)
+[单词的拆分](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/WordBreak.java)  
+[打家劫舍](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/HouseRobber)  
+[打家劫舍Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/HouseRobberⅡ)  
+[打家劫舍Ⅲ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/HouseRobberⅢ)
 
 
 ### 贪心
