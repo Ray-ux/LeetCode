@@ -8,6 +8,16 @@ package dynamic;
  */
 public class BestTimeToBuyAndSellStockWithCooldown {
 
+    /**
+     * 1.确定dp[i][j],第i天状态为j，所剩的最多现金为dp[i][j]
+     * 0--买入股票状态（今天买入股票或者保持买入股票）
+     * 1--前两天就卖出股票。度过了冷冻器，今天保持卖出股票状态
+     * 2--今天卖出股票
+     * 3--今天为冷冻期
+     * 2.递推公式：可根据代码分析一次确定哥哥状态的推到过程
+     * @param prices
+     * @return
+     */
     public int maxProfit(int[] prices) {
         int n = prices.length;
         if (n==0) {
