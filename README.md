@@ -147,9 +147,12 @@
 [打家劫舍](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/HouseRobber)  
 [打家劫舍Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/HouseRobberⅡ)  
 [打家劫舍Ⅲ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/HouseRobberⅢ)  
-[买卖股票的最佳时机Ⅲ](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/BestTimeToBuyAndSellStockⅢ.java)  
-[买卖股票的最佳时机Ⅳ](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/BestTimeToBuyAndSellStockⅣ.java)  
-[最佳买卖股票的时机含冷冻期](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/BestTimeToBuyAndSellStockWithCooldown.java)
+[买卖股票的最佳时机Ⅲ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/BestTimeToBuyAndSellStockⅢ.java)  
+[买卖股票的最佳时机Ⅳ](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/BestTimeToBuyAndSellStockⅣ.java)  
+[最佳买卖股票的时机含冷冻期](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/BestTimeToBuyAndSellStockWithCooldown.java)  
+[最长递增子序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/LongEstIncreasingSubSequence.java)  
+[最长连续递增序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/LongestContinuousIncreasingSubSequence.java)
+
 
 ### 贪心
 [雪糕的最大数量](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/MaxIceCreamBars.java) </br>
