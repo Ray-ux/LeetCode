@@ -13,7 +13,7 @@ public class LongestContinuousIncreasingSubSequence {
 
         int n = nums.length;
         int[] dp = new int[n];
-        int result = 0;
+        int result = 1;
         Arrays.fill(dp, 1);
         for (int i = 0; i < n - 1; i++) {
             if (nums[i + 1] > nums[i]) {
