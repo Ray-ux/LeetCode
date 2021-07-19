@@ -154,7 +154,9 @@
 [最长递增子序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/LongEstIncreasingSubSequence.java)  
 [最长连续递增序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/LongestContinuousIncreasingSubSequence.java)  
 [最长公共子序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/LongestCommonSubSequence.java)
-[最长重复数组](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/MaximumLengthOfRepeatedSubarray.java)
+[最长重复数组](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/MaximumLengthOfRepeatedSubarray.java)  
+[不相交的线](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/UncrossedLines.java)  
+[最大子序列和](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/MaximumSubarray.java)
 
 
 ### 贪心
