@@ -158,7 +158,9 @@
 [不相交的线](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/UncrossedLines.java)  
 [最大子序列和](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/MaximumSubarray.java)  
 [判断子序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/isSubsequence.java)  
-[不同的子序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/DistinctSubSequences.java)
+[不同的子序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/DistinctSubSequences.java)  
+[编辑距离](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/EditDistance.java)  
+[两个字符串的删除操作](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/DeleteOperationForTwoStrings.java)
 
 
 ### 贪心
