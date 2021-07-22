@@ -160,7 +160,8 @@
 [判断子序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/isSubsequence.java)  
 [不同的子序列](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/DistinctSubSequences.java)  
 [编辑距离](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/EditDistance.java)  
-[两个字符串的删除操作](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/DeleteOperationForTwoStrings.java)
+[两个字符串的删除操作](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/DeleteOperationForTwoStrings.java)  
+[回文子串](https://github.com/Ray-ux/LeetCode/blob/master/src/dynamic/PalindromicSubString.java)
 
 
 ### 贪心
