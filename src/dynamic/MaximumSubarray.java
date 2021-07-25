@@ -29,4 +29,24 @@ public class MaximumSubarray {
         }
         return result;
     }
+    /**
+     * 贪心解法：从下标0向后开始统计和，当当前和已经小于0时，则重新从下一个位置开始统计和，当当前和大于最大和时，则最大值等于当前和
+     * @param nums
+     * @return
+     */
+    public int maxSubArray1(int[] nums) {
+
+        int result = Integer.MIN_VALUE;
+        int count = 0;
+        for (int i = 0; i < nums.length; i++) {
+            count += nums[i];
+            if (count > result) {
+                result = count;
+            }
+            if (count <= 0) {
+                count = 0;
+            }
+        }
+        return result;
+    }
 }
