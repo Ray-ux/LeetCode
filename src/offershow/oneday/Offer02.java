@@ -1,4 +1,4 @@
-package offershow;
+package offershow.oneday;
 
 /**
  * 二进制加法(类似于字符串相加)
