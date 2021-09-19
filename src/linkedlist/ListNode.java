@@ -5,8 +5,8 @@ package linkedlist;
  * @author 张烈文
  */
 public class ListNode {
-     ListNode next;
-     int val;
+    public ListNode next;
+    public  int val;
 
     ListNode() {
 

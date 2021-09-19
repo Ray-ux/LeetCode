@@ -11,6 +11,7 @@ public class Offer06 {
 
     /**
      * 方法一：借助hashmap
+     *
      * @param numbers
      * @param target
      * @return
@@ -24,7 +25,7 @@ public class Offer06 {
                 if (i > temp.get(target - numbers[i])) {
                     res[0] = i;
                     res[1] = temp.get(target - numbers[i]);
-                }else{
+                } else {
                     res[0] = temp.get(target - numbers[i]);
                     res[1] = i;
                 }
@@ -36,6 +37,7 @@ public class Offer06 {
 
     /**
      * 由于题目已经告诉了是已经排好序的数组，因此我们合不考虑一下二分
+     *
      * @param numbers
      * @param target
      * @return
@@ -55,4 +57,6 @@ public class Offer06 {
         return new int[]{0, 0};
 
     }
+
+
 }
