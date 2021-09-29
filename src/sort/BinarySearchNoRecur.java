@@ -1,5 +1,7 @@
 package sort;
 
+import java.util.Arrays;
+
 /**
  * @author 张烈文
  */
@@ -24,6 +26,8 @@ public class BinarySearchNoRecur {
         }
         return -1;
     }
+
+
 
     public static void main(String[] args) {
         System.out.println(binarySearch(new int[]{2, 4, 5, 7, 8}, 0));
