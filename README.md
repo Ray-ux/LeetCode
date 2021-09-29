@@ -174,4 +174,5 @@
 [搜索插入位置](https://github.com/Ray-ux/LeetCode/blob/master/src/binarysearch/SearchInsertPosition.java)  
 
 ### hash表
-[大餐计数](https://github.com/Ray-ux/LeetCode/blob/master/src/hashtable/CountGoodMeals.java)
+[大餐计数](https://github.com/Ray-ux/LeetCode/blob/master/src/hashtable/CountGoodMeals.java)  
+[四数相加Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/hashtable/FourAddⅡ.java)

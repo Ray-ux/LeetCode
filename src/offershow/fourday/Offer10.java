@@ -8,18 +8,32 @@ import java.util.HashMap;
  */
 public class Offer10 {
 
-    public int subarraySum(int[] nums, int k) {
-        int count = 0;
+
+    /**
+     * 很明显我们如果要找出子数组内0和1数量相同，只需求和为0即可
+     * @param nums
+     * @return
+     */
+    public  int findMaxLength(int[] nums) {
+        /*
+         *将数组中的0全变为-1
+         */
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 0) {
+                nums[i] = -1;
+            }
+        }
+//        这里直接参考上一题思路
         int preSum = 0;
+//        key：前缀和，value：下标
         HashMap<Integer, Integer> ans = new HashMap<>();
-        ans.put(0, 1);
+
         for (int i = 0; i < nums.length; i++) {
             preSum += nums[i];
-            count += ans.getOrDefault(preSum - k, 0);
-            ans.put(preSum, ans.getOrDefault(preSum, 0) + 1);
+//            ans.get()
         }
-        return count;
-    }
 
+        return 0;
+    }
 
 }
