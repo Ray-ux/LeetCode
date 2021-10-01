@@ -1,5 +1,7 @@
 package linkedlist;
 
+
+
 /**
  * @author 张烈文
  */
