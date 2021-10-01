@@ -1,8 +1,8 @@
 package linkedlist;
 
 /**
- * 链表节点
  * @author 张烈文
+ * @date 2021/10/1 21:14
  */
 public class ListNode {
     public ListNode next;
@@ -20,6 +20,4 @@ public class ListNode {
         this.val = val;
         this.next = next;
     }
-
-
 }
