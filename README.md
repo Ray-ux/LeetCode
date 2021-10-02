@@ -176,4 +176,7 @@
 
 ### hash表
 [大餐计数](https://github.com/Ray-ux/LeetCode/blob/master/src/hashtable/CountGoodMeals.java)  
-[四数相加Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/hashtable/FourAddⅡ.java)
+[四数相加Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/hashtable/FourAddⅡ.java)  
+### 双指针
+[移除元素](https://github.com/Ray-ux/LeetCode/blob/master/src/doublepoint/RemoveElemet.class)  
+
