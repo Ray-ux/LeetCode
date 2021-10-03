@@ -57,7 +57,8 @@
 [最小栈](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/MinStack.java)  
 [删除字符串中的所有相邻重复项]()  
 [队列实现栈]()  
-[栈实现队列]()
+[栈实现队列]()  
+[逆波兰表达式]()
 ### 回溯
 [全排列 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/Permutations.java) </br>
 [全排列 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/PermutationsⅡ.java) </br>
