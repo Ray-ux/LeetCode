@@ -55,12 +55,12 @@
 [简化路径](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/SimplifyPath.java) </br>
 [有效的括号](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/ValidParentheses.java)  </br>
 [最小栈](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/MinStack.java)  
-[删除字符串中的所有相邻重复项]()  
-[队列实现栈]()  
-[栈实现队列]()  
-[逆波兰表达式]()  
-[前K个高频元素]()  
-[滑动窗口的最大值]()
+[删除字符串中的所有相邻重复项](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/DeleteNearCharInString.class)  
+[队列实现栈](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/QueueImplementStack.class)  
+[栈实现队列](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/StackImplementQueue.class)  
+[逆波兰表达式](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/EvaluateReversePolishNotation.class)  
+[前K个高频元素](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/TopkFrequentElements.class)  
+[滑动窗口的最大值](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/SlidingWindowMaximum.class)
 ### 回溯
 [全排列 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/Permutations.java) </br>
 [全排列 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/PermutationsⅡ.java) </br>
