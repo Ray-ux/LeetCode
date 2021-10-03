@@ -39,7 +39,7 @@ public class QueueImplementStack {
     }
 
     public int top() {
-        return queue1.peek();
+        return queue2.peek();
     }
 
     public boolean empty() {
