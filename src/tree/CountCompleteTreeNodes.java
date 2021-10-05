@@ -24,14 +24,15 @@ public class CountCompleteTreeNodes {
         if (root == null) {
             return 0;
         }
-        int left = countLevel(root.left);
-        int right = countLevel(root.right);
+        int leftDepth = countLevel(root.left);
+        int rightDepth = countLevel(root.right);
 //        由于是完全二叉树，因此若出现left==right，则代表左子树的最后一层已经溢出到右子树了
-        // 代表左子树是满的，而右子树可能是满的也可能不是满的
-        if (left == right) {
-            return countNodes1(root.right) + 1 << left;
+        // 代表左子树是满的,若不等：则代表右子树比左子树少一层且右子树为满二叉树
+        if (leftDepth == rightDepth) {
+//            2^leftDepth,这里其实是（2^leftDepth-1）+1 (因为要加上根节点)
+            return countNodes1(root.right) + 1 << leftDepth;
         }else {
-            return countNodes1(root.left) + 1 << right;
+            return countNodes1(root.left) + 1 << rightDepth;
         }
     }
 
