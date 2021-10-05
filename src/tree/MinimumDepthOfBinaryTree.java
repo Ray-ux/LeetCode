@@ -48,4 +48,31 @@ public class MinimumDepthOfBinaryTree {
     }
 
 
+    /**
+     * 递归解法，最小二叉树深度
+     *
+     * @param root
+     * @return
+     */
+    public int minDepth1(TreeNode root) {
+//        确定递归终止条件
+        if (root == null) {
+            return 0;
+        }
+//        单层遍历的逻辑
+        int leftDepth = minDepth1(root.left);
+        int rightDepth = minDepth1(root.right);
+//        若当前左子树为空，右子树不为空，则最小深度为1+rightDepth
+        if (root.left == null && root.right != null) {
+            return 1 + rightDepth;
+        }
+//        若当前右子树为空，左子树不为空，则最小深度为1+leftDepth
+        if (root.right == null && root.left != null) {
+            return 1 + leftDepth;
+        }
+        return Math.min(leftDepth, rightDepth) + 1;
+
+    }
+
+
 }
