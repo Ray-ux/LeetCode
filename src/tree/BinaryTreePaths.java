@@ -27,13 +27,15 @@ public class BinaryTreePaths {
 //        当前节点无左子树且无右子树时，则将其添加到结果集中
         if (node.left == null && node.right == null) {
             res.add(path.toString() + node.val);
+            return;
         }
 
+//        size得到追加元素之前的长度
         int size = path.length();
         path.append(node.val).append("->");
         dfs(path, res, node.left);
         dfs(path ,res, node.right);
-//        回溯
+//        回溯，追加元素之前的长度，追加元素之后的元素
         path.delete(size, path.length());
 
     }
