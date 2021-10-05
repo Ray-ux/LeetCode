@@ -110,7 +110,8 @@
 [修剪二叉搜索树]() </br>
 [将有序数组转换为二叉搜索树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/ConvertSortedArrayToBST.java) </br>
 [有序链表转换为二叉搜索树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/ConvertSortedArrayToBST.java) </br>
-[序列化二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/SerializedBinaryTree.java)
+[序列化二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/SerializedBinaryTree.java)  
+[统计二叉树的节点数](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/NomalTreeNodeNums.class)
 
 ### 位运算
 [找出第K大的异或坐标值](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/FindKthLargestXORCoorrdinateValue.java) </br>
