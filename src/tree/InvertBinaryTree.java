@@ -40,10 +40,13 @@ public class InvertBinaryTree {
         Deque<TreeNode> deque = new LinkedList<>();
         deque.addLast(root);
         while (!deque.isEmpty()) {
+//            先获得当前节点
             TreeNode curNode = deque.removeFirst();
+//            以下操作为交换两节点
             TreeNode rightNode = curNode.right;
             curNode.right = curNode.left;
             curNode.left = rightNode;
+//            下面就是将节点加入队列中，操作和层序遍历一样
             if (curNode.left != null) {
                 deque.addLast(curNode.left);
             }
