@@ -1,6 +1,7 @@
 package tree;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Stack;
 
@@ -57,6 +58,32 @@ public class BinaryTreePostorderTraversal {
                 }
             }
         }
+        return res;
+    }
+
+    /**
+     * 新更新一种后序遍历的非递归方式
+     */
+    public List<Integer> postorderTraversal2(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        if (root == null) {
+            return res;
+        }
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+        while (!stack.isEmpty()) {
+            TreeNode top = stack.pop();
+            res.add(top.val);
+//            这里与前序遍历的非递归方式加入栈中的方式不同
+            if (top.left != null) {
+                stack.push(top.left);
+            }
+            if (top.right != null) {
+                stack.push(top.right);
+            }
+        }
+//        对已经得到的结果进行反转便可以得到我们想要的结果
+        Collections.reverse(res);
         return res;
     }
 }
