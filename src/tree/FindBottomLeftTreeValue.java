@@ -89,4 +89,32 @@ public class FindBottomLeftTreeValue {
 
         return res;
     }
+
+
+    /**
+     * 迭代法：层序遍历，只要我们记录一下每一层的第一个节点就行
+     * @param root
+     * @return
+     */
+    public int findBottomLeftValue3(TreeNode root) {
+        Deque<TreeNode> deque = new LinkedList<>();
+        deque.addLast(root);
+        int result = 0;
+        while (!deque.isEmpty()) {
+            int size = deque.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode node = deque.removeFirst();
+                if (i == 0) {
+                    result = node.val;
+                }
+                if (node.left != null) {
+                    deque.addLast(node.left);
+                }
+                if (node.right != null) {
+                    deque.addLast(node.right);
+                }
+            }
+        }
+        return result;
+    }
 }
