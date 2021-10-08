@@ -1,6 +1,9 @@
 package prefixsum;
 
+import tree.TreeNode;
+
 import java.util.HashMap;
+import java.util.PriorityQueue;
 
 /**
  * 和相同的二元子数组
@@ -17,6 +20,7 @@ public class BinarySubarraysWithSum {
      * @return
      */
     public  static int numSubarraysWithSum(int[] nums, int goal) {
+        PriorityQueue<TreeNode> queue = new PriorityQueue<TreeNode>((o1, o2) -> o1.val-o2.val);
         int n = nums.length;
         int[] sum = new int[n+1];
         for (int i = 1; i <= n; i++) {
