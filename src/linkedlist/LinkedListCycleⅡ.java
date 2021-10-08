@@ -1,34 +1,32 @@
 package linkedlist;
 
+import java.util.List;
+
 /**
  * @author 张烈文
  */
 public class LinkedListCycleⅡ {
     public ListNode detectCycle(ListNode head) {
 
-//        双指针
+        if (head == null) {
+            return head;
+        }
         ListNode fast = head, slow = head;
-
-
-        while (true) {
-//        如果链表没环直接返回
-            if (fast == null || fast.next == null) {
-                return null;
-            }
+        while (fast != null && fast.next != null) {
             fast = fast.next.next;
             slow = slow.next;
-//            有环则终止循环
-            if (slow == fast) {
-                break;
+//            存在环
+            if (fast == slow) {
+                ListNode index1 = fast;
+                ListNode index2 = head;
+//                找环入口
+                while (index1 != index2) {
+                    index1 = index1.next;
+                    index2 = index2.next;
+                }
+                return index1;
             }
         }
-
-//        将fast指针重新指向head
-        fast = head;
-        while (fast != slow) {
-            fast = fast.next;
-            slow = slow.next;
-        }
-        return fast;
+        return null;
     }
 }
