@@ -114,7 +114,8 @@
 [统计二叉树的节点数](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/NomalTreeNodeNums.java)  
 [相同的树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/SameTree.java)  
 [锯齿形打印二叉树](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/ZigzagLevelOrderTraversal.java)  
-[树的子结构](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/TreeSonStructure.java)
+[树的子结构](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/TreeSonStructure.java)  
+[二叉树的后序遍历序列](https://github.com/Ray-ux/LeetCode/blob/master/src/tree/BstPostOrder.java)
 
 ### 位运算
 [找出第K大的异或坐标值](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/FindKthLargestXORCoorrdinateValue.java) </br>

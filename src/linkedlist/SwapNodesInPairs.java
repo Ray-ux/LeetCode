@@ -1,5 +1,7 @@
 package linkedlist;
 
+import java.util.Arrays;
+
 /**
  * @author 张烈文
  */
