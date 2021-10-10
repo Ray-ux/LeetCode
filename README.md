@@ -62,7 +62,8 @@
 [栈实现队列](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/StackImplementQueue.class)  
 [逆波兰表达式](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/EvaluateReversePolishNotation.class)  
 [前K个高频元素](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/TopkFrequentElements.class)  
-[滑动窗口的最大值](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/SlidingWindowMaximum.class)
+[滑动窗口的最大值](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/SlidingWindowMaximum.class)  
+[栈的压入，弹出序列](https://github.com/Ray-ux/LeetCode/blob/master/src/stack/StackPushAndPopOrder.java)
 ### 回溯
 [全排列 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/Permutations.java) </br>
 [全排列 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/recall/PermutationsⅡ.java) </br>
