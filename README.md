@@ -14,8 +14,8 @@
 [删除有序数组中的重复项 Ⅰ](https://github.com/Ray-ux/LeetCode/blob/master/src/array/RemoveDuplicatesBySortedArray%E2%85%A0.java) </br>
 [删除有序数组中的重复项 Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/array/RemoveDuplicatesBySortedArray%E2%85%A1.java) </br>
 [搜索旋转排序数组 Ⅰ]() </br>
-[螺旋矩阵Ⅱ]()  
-[螺旋矩阵]() </br>
+[螺旋矩阵Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/array/SpiralMatrixII.java)  
+[螺旋矩阵](https://github.com/Ray-ux/LeetCode/blob/master/src/array/SpiralMatrix.java) </br>
 [搜索旋转排序数组 Ⅱ]() </br>
 [寻找两个正序数组的中位数]() </br>
 [最长连续序列]() </br>
