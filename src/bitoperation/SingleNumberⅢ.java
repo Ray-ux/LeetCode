@@ -31,21 +31,19 @@ public class SingleNumberⅢ {
 //
     public int[] singleNumber1(int[] nums) {
         int ret=0;
-        //               1.先将所有数进行与运算，结果为两个出现一次的数的与值
+//        1.把所有的元素进行异或操作，最终得到一个异或值。因为是不同的两个数字，所以这个值必定不为 0；
 
         for(int num:nums){
             ret^=num;
         }
-        int div=1;
-//        找到结果与中，位为1的位置
-        while((div&ret)==0){
-            div<<=1;
-        }
+//        2.取异或值最后一个二进制位为1的数字作为mask，如果是1则表示两个数字在这一位上不同
+        int mask = ret & (-ret);
 
         int a=0,b=0;
-//        将数组分为两组，每组中均有一个仅出现一次的数，其余都是出现两次的数
+//        3.通过与这个 mask 进行与操作，如果为 0 的分为一个数组，为 1 的分为另一个数组。
         for(int num:nums){
-            if((div&num)!=0){
+//            这里相同的数都会分到同一组中
+            if((mask&num)!=0){
                 a^=num;
             }else {
                 b^=num;
