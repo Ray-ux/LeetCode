@@ -126,6 +126,7 @@
 [2的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfTwo.java) </br>
 [4的幂](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/PowerOfFour.java) </br>
 [只出现一次的数字Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/SingleNumberⅡ.java) </br>
+[求1+2+3+...+n的和](https://github.com/Ray-ux/LeetCode/blob/master/src/bitoperation/SumOneToN.java)
 ### 堆
 [前k个高频单词](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentWords.java) </br>
 [前k个高频元素](https://github.com/Ray-ux/LeetCode/blob/master/src/heap/TopkFrequentElements.java) </br>
