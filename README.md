@@ -200,5 +200,6 @@
 ### 双指针
 [移除元素](https://github.com/Ray-ux/LeetCode/blob/master/src/doublepoint/RemoveElemet.class) 
 ### 数学
-[最小操作次数使数组元素相等]()
+[最小操作次数使数组元素相等](https://github.com/Ray-ux/LeetCode/blob/master/src/math/MinCountMakeEqual.java)  </br>
+[快速幂算法](https://github.com/Ray-ux/LeetCode/blob/master/src/math/PowXN.java)
 
