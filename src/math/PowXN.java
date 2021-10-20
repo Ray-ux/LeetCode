@@ -19,20 +19,23 @@ public class PowXN {
         if (x == 0.0) {
             return x;
         }
+        long m=n;
 //        指数小于0的话。需要将x变为1/x，n等于它的相反数
-        if (n < 0) {
+        if (m < 0) {
             x = 1 / x;
-            n = -n;
+            m = -m;
         }
+//        这里用long因为int类型的最小值的相反数还是最小值，因此我们需要将其扩大精度
+
         int res = 1;
-        while (n > 0) {
+        while (m > 0) {
 //            若为奇数则取出相乘
-            if ((n & 1) == 1) {
+            if ((m & 1) == 1) {
                 res *= x;
             }
 //           若为偶数，则将底数变为原来数的平方，并将指数除以2
             x *= x;
-            n >>= 1;
+            m >>= 1;
         }
         return res;
     }
