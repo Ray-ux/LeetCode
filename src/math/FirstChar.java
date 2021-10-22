@@ -12,6 +12,11 @@ import java.util.Objects;
  */
 public class FirstChar {
 
+    /**
+     * 使用linkedhashmap保证有序性
+     * @param s
+     * @return
+     */
     public char firstUniqChar(String s) {
         LinkedHashMap<Character, Integer> ans = new LinkedHashMap<>();
         for (char c : s.toCharArray()) {
