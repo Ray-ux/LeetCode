@@ -202,5 +202,6 @@
 ### 数学
 [最小操作次数使数组元素相等](https://github.com/Ray-ux/LeetCode/blob/master/src/math/MinCountMakeEqual.java)  </br>
 [快速幂算法](https://github.com/Ray-ux/LeetCode/blob/master/src/math/PowXN.java)  
-[字符串转换整数](https://github.com/Ray-ux/LeetCode/blob/master/src/math/StringChangeInt.java)
+[字符串转换整数](https://github.com/Ray-ux/LeetCode/blob/master/src/math/StringChangeInt.java)  
+[表示数值的字符串](https://github.com/Ray-ux/LeetCode/blob/master/src/math/ExpressionNumString.java)
 
