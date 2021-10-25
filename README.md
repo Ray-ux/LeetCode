@@ -205,5 +205,6 @@
 [字符串转换整数](https://github.com/Ray-ux/LeetCode/blob/master/src/math/StringChangeInt.java)  
 [表示数值的字符串](https://github.com/Ray-ux/LeetCode/blob/master/src/math/ExpressionNumString.java)  
 [构建乘积数组](https://github.com/Ray-ux/LeetCode/blob/master/src/math/ConstructArray.java)  
-[第一个只出现一次的字符](https://github.com/Ray-ux/LeetCode/blob/master/src/math/FirstChar.java)
+[第一个只出现一次的字符](https://github.com/Ray-ux/LeetCode/blob/master/src/math/FirstChar.java)  
+[调整数组顺序使奇数位于偶数前面](https://github.com/Ray-ux/LeetCode/blob/master/src/math/ChangeArrayPosition.java)
 
