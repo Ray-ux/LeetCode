@@ -12,6 +12,7 @@ public class AssignCookies {
 
     /**
      * 小饼干先喂饱小胃口
+     * 贪心：将最大的饼干喂给胃口最大的孩子（局部最优），
      * @param g
      * @param s
      * @return
@@ -19,12 +20,14 @@ public class AssignCookies {
     public int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);
-        int index=0;
-        for(int i=0;i<s.length;i++){
-            if(index<g.length&&g[index]<=s[i]){
-                index++;
+        int count = 0;
+        int start = s.length - 1;
+        for (int i = g.length - 1; i >= 0; i--) {
+            if (start >= 0 && s[start] >= g[i]) {
+                start--;
+                count++;
             }
         }
-        return index;
+        return count;
     }
 }
