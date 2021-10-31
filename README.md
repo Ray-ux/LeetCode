@@ -187,7 +187,8 @@
 [买卖股票的最佳时机](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/BestTimeToBuyAndSellStock.java)  
 [买卖股票的最佳时机Ⅱ](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/BestTimeToBuyAndSellStockⅡ.java)  
 [分发饼干](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/AssignCookies.java)  
-[摆动序列](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/WiggleSubSequence.java)
+[摆动序列](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/WiggleSubSequence.java)  
+[跳跃游戏](https://github.com/Ray-ux/LeetCode/blob/master/src/greedy/JumpGame.java)
 ### 二分查找
 [第一个错误的版本](https://github.com/Ray-ux/LeetCode/blob/master/src/binarysearch/FirstBadVersion.java) </br>
 [搜索插入位置](https://github.com/Ray-ux/LeetCode/blob/master/src/binarysearch/SearchInsertPosition.java)  
